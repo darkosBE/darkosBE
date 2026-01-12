@@ -12,9 +12,7 @@
 
 ###
 
-<div align="center">
   ![Visitor Badge](https://komarev.com/ghpvc/?username=Syzdark&color=blueviolet)
-</div>
 
 ###
 
