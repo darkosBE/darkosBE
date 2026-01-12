@@ -1,54 +1,43 @@
 <!-- 
-██╗   ██╗██╗   ██╗██████╗ ███████╗
-╚██╗ ██╔╝██║   ██║██╔══██╗██╔════╝
- ╚████╔╝ ██║   ██║██████╔╝███████╗
-  ╚██╔╝  ██║   ██║██╔══██╗╚════██║
-   ██║   ╚██████╔╝██████╔╝███████║
-   ╚═╝    ╚═════╝ ╚═════╝ ╚══════╝
+██╗   ██╗██╗   ██╗██████╗ ███████╗    
+╚██╗ ██╔╝██║   ██║██╔══██╗██╔════╝    
+ ╚████╔╝ ██║   ██║██████╔╝███████╗    
+  ╚██╔╝  ██║   ██║██╔══██╗╚════██║   
+   ██║   ╚██████╔╝██████╔╝███████║   
+   ╚═╝    ╚═════╝ ╚═════╝ ╚══════╝     
 -->
 
-<h1 align="center">Hey, I'm <b>Syzdark</b> 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FFA3&center=true&vCenter=true&width=600&lines=Senior+Dev+%7C+Automation+King;Discord+Bot+Architect;Self-Hosted+Wizard;Always+Online,+Never+AFK" alt="Typing SVG" />
-</p>
+<h3 align="center">YUBS — Node.js & Python Developer</h3>
 
 <p align="center">
-  <a href="https://discord.gg/Coderz">
-    <img src="https://img.shields.io/badge/Discord-Join%20Coderz-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
+  <a href="https://github.com/darkosBE?tab=repositories">
+    <img src="https://img.shields.io/github/top-language/darkosBE?color=007acc&logo=github&logoColor=white&style=flat" alt="Top Langs" />
+  </a>
+  <a href="https://github.com/darkosBE?tab=stars">
+    <img src="https://img.shields.io/github/stars/darkosBE?affiliations=OWNER&color=ff69b4&style=flat" alt="Stars" />
   </a>
 </p>
 
 ---
 
-### 🛠️ **Tech Stack**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,js,ts,html,css,git,linux,docker,nginx,postgres,mongodb" />
-</p>
+### 🔧 Current Focus
+- **Project WAC** — Web AFK Client (Node.js + Python)  
+  > A resilient, headless automation layer for persistent web interactions — designed to run silently, efficiently, and indefinitely.
+- Self-hosted infrastructure with auto-reporting telemetry  
+- Lazy-proof automation: if it can’t cron, it doesn’t ship  
 
----
-
-### 📊 **GitHub Stats**
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syzdark&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syzdark&layout=compact&theme=radical" />
-</div>
-
----
-
-### 🔥 **Currently Working On**
-- 🤖 Building self-hosted C2 infra with auto IP reporting  
-- ⚡ Optimizing lazy-friendly automation scripts (because why click when you can cron?)  
-- 🌐 Keeping my bots **always online** — offline is a myth ✅  
-- 🧠 Bypassing anti-bot nonsense like it’s a Tuesday hobby  
-
----
-
-### 💬 **Philosophy**
 > “If it’s manual, it’s broken.”  
-> — *Syzdark, probably*
+> — YUBS
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+### 🛠️ Tech Stack
+- **Backend**: Node.js, Python, Express, FastAPI  
+- **Automation**: Puppeteer, Playwright, Selenium, Cron  
+- **Infra**: Linux, Docker, Nginx, systemd, Cloudflare Tunnel  
+- **Philosophy**: Stateless > Stateful | Silent > Noisy | Automated > Manual  
+
+---
+
+### 📬 Reach Out
+I don’t do socials—but if your project involves **infra resilience**, **anti-detection logic**, or **true set-and-forget automation**, you already speak my language.
