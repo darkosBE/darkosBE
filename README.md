@@ -1,80 +1,12 @@
-<!-- 
-██╗   ██╗██╗   ██╗██████╗ ███████╗    ██╗    ██╗███████╗██████╗ 
-╚██╗ ██╔╝██║   ██║██╔══██╗██╔════╝    ██║    ██║██╔════╝██╔══██╗
- ╚████╔╝ ██║   ██║██████╔╝███████╗    ██║ █╗ ██║█████╗  ██████╔╝
-  ╚██╔╝  ██║   ██║██╔══██╗╚════██║    ██║███╗██║██╔══╝  ██╔══██╗
-   ██║   ╚██████╔╝██████╔╝███████║    ╚███╔███╔╝███████╗██║  ██║
-   ╚═╝    ╚═════╝ ╚═════╝ ╚══════╝     ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝
--->
+# Hey there! I'm Syzdark 👋
 
-<div align="center">
+![Visitor Badge](https://komarev.com/ghpvc/?username=Syzdark&color=blueviolet)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syzdark&show_icons=true&theme=radical)
 
-  <h3>YUBS — Node.js & Python Developer</h3>
+🔧 **Languages & Tools**:  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white)
 
-  <p>
-    <a href="https://github.com/darkosBE?tab=repositories">
-      <img src="https://img.shields.io/github/top-language/darkosBE?color=007acc&logo=github&logoColor=white&style=for-the-badge" alt="Top Langs" />
-    </a>
-    <a href="https://github.com/darkosBE?tab=stars">
-      <img src="https://img.shields.io/github/stars/darkosBE?affiliations=OWNER&color=ff69b4&style=for-the-badge" alt="Stars" />
-    </a>
-  </p>
-
-  <br>
-
-  <!-- Animated divider -->
-  <div style="height: 2px; width: 80%; background: linear-gradient(90deg, transparent, #007acc, #ff69b4, transparent); margin: 2rem auto; border-radius: 1px; animation: pulseGlow 3s infinite;"></div>
-
-  <style>
-    @keyframes pulseGlow {
-      0%, 100% { opacity: 0.6; }
-      50% { opacity: 1; }
-    }
-    .fade-in {
-      animation: fadeIn 1.2s ease-out forwards;
-      opacity: 0;
-    }
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(10px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    .glow-text {
-      text-shadow: 0 0 8px rgba(0, 122, 204, 0.4);
-      transition: text-shadow 0.3s ease;
-    }
-    .glow-text:hover {
-      text-shadow: 0 0 16px rgba(255, 105, 180, 0.7);
-    }
-  </style>
-
-</div>
-
-<div class="fade-in" style="animation-delay: 0.2s;">
-
-### 🔧 Current Focus
-- **Project WAC** — Web AFK Client (Node.js + Python)  
-  > A resilient, headless automation layer for persistent web interactions — designed to run silently, efficiently, and indefinitely.
-- Self-hosted infrastructure with auto-reporting telemetry  
-- Lazy-proof automation: if it can’t cron, it doesn’t ship  
-
-> “If it’s manual, it’s broken.”  
-> — <span class="glow-text">YUBS</span>
-
-</div>
-
-<div class="fade-in" style="animation-delay: 0.4s;">
-
-### 🛠️ Tech Stack
-- **Backend**: Node.js, Python, Express, FastAPI  
-- **Automation**: Puppeteer, Playwright, Selenium, Cron  
-- **Infra**: Linux, Docker, Nginx, systemd, Cloudflare Tunnel  
-- **Philosophy**: Stateless > Stateful | Silent > Noisy | Automated > Manual  
-
-</div>
-
-<div class="fade-in" style="animation-delay: 0.6s;">
-
-### 📬 Reach Out
-I don’t do socials—but if your project involves **infra resilience**, **anti-detection logic**, or **true set-and-forget automation**, you already speak my language.
-
-</div>
+💬 **Always coding. Always online. Never AFK.**  
+🔗 Join the squad: [Coderz Discord](https://discord.gg/Coderz)
