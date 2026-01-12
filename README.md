@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syzdark&show_icons=true&theme=radical"  />
+  ![Visitor Badge](https://komarev.com/ghpvc/?username=Syzdark&color=blueviolet)
 </div>
 
 ###
