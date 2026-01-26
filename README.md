@@ -43,10 +43,7 @@ Firebase
 ###
 
 
-
-<div align="center">
-  [![darkosBE's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkosBE)](https://github.com/darkosBE/github-readme-stats)
-</div>
+[![darkosBE's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkosBE)](https://github.com/darkosBE/github-readme-stats)
 
 ###
 
